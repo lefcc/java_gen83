@@ -15,7 +15,7 @@ public class Lista2_Ex7 {
 		System.out.println("Digite o 2º número: ");
 		num2 = input.nextFloat();
 		
-		input.close();
+		
 		
 		System.out.println("Operação: ");
 		cod = input.nextInt();
@@ -44,7 +44,6 @@ public class Lista2_Ex7 {
 			
 		}
 		
-
+		input.close();
 	}
-
 }

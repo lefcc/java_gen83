@@ -23,8 +23,8 @@ public static void main(String[] args) {
 		
 		System.out.printf("%n%n");
 		
-		input.close();
 		
+			
 		switch(cod) {
 		
 		case 1:
@@ -68,6 +68,6 @@ public static void main(String[] args) {
 		
 		}
 	
-		
+		input.close();
 	}
 }
